@@ -7,7 +7,19 @@ export default function Home() {
         <title>João Portifolio</title>
       </Head>
 
-        <h1 className="text-blue-800">Lets build an AWESOME portifolio</h1>
+        {/* Header */}
+
+        {/* Hero */}
+
+        {/* About */}
+
+        {/* Experience */}
+
+        {/* Skills */}
+
+        {/* Projects */}
+
+        {/* Contact Me */}
     </div>
   )
 }
