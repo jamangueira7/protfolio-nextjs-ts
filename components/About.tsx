@@ -11,7 +11,7 @@ export default function About() {
                 opacity: 0,
             }}
             transition={{
-                duration: 1.5
+                duration: 1.5,
             }}
             whileInView={{
                 opacity: 1,
