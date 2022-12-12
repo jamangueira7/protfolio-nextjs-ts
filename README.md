@@ -8,15 +8,15 @@
 <br>
 
 <p align="center">
-  <img alt="gostack" src=".github/front1.PNG" width="250" height="600">
+  <img alt="gostack" src=".github/front1.png" width="250" height="600">
 </p>
 
 <p width="450" height="800" align="center">
-  <img alt="gostack" src=".github/front2.PNG" width="250" height="600">
+  <img alt="gostack" src=".github/front2.png" width="250" height="600">
 </p>
 
 <p width="450" height="800" align="center">
-  <img alt="gostack" src=".github/front3.PNG" width="250" height="600">
+  <img alt="gostack" src=".github/front3.png" width="250" height="600">
 </p>
 
 ## Portfólio React
