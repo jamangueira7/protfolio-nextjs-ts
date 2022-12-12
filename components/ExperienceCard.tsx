@@ -9,17 +9,17 @@ export default function ExperienceCard() {
            <motion.img
                initial={{
                    y: -100,
-                   opacity: 0,
+                   opacity: 0
                }}
                transition={{
-                   duration: 1.5,
+                   duration: 1.5
                }}
                whileInView={{
                    opacity: 1,
-                   y: 0,
+                   y: 0
                }}
                viewport={{
-                   once: true,
+                   once: true
                }}
                className="w-32 h-32 rounded-full xl:w-[200px] xl:h-[200px] object-cover object-center"
                src="https://avatars.githubusercontent.com/u/1902749"
