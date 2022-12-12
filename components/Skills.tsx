@@ -32,12 +32,12 @@ export default function Skills() {
                 <Skill />
                 <Skill />
                 <Skill />
-                <Skill />
-                <Skill />
-                <Skill />
-                <Skill />
-                <Skill />
-                <Skill />
+                <Skill directionLeft={true} />
+                <Skill directionLeft={true} />
+                <Skill directionLeft={true} />
+                <Skill directionLeft={true} />
+                <Skill directionLeft={true} />
+                <Skill directionLeft={true} />
            </div>
        </motion.div>
     )
